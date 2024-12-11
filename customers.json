@@ -1,0 +1,26 @@
+{
+    "Demo": {
+        "Email": "demo@gmail.com",
+        "Telefon": "05433637277",
+        "Sipari\u015fler": [
+            {
+                "Sipari\u015f": "Deneme sipari\u015fi",
+                "Tarih": "2024-12-11 21:20:35"
+            },
+            {
+                "Sipari\u015f": "Sehpa",
+                "Tarih": "2024-12-11 21:38:33"
+            }
+        ]
+    },
+    "A\u015f\u0131k": {
+        "Email": "asik@gmail.com",
+        "Telefon": "05335252525",
+        "Sipari\u015fler": [
+            {
+                "Sipari\u015f": "Cep Telefonu",
+                "Tarih": "2024-12-11 20:05:54"
+            }
+        ]
+    }
+}
